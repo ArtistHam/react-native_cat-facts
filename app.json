@@ -1,0 +1,16 @@
+{
+  "expo": {
+   "name": "Artist Ham test task with cats",
+   "icon": "./cat-21-81494.png",
+   "version": "1.0.0",
+   "slug": "your-app-slug",
+   "ios": {
+     "bundleIdentifier": "com.artist.ham",
+     "buildNumber": "1.0.0"
+   },
+   "android": {
+     "package": "com.artist.ham",
+     "versionCode": 1
+   }
+  }
+}
